@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm JUN XUN</h1>
+<h3 align="center">A 2nd Year Computer Science Student in UTM</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!--
 **JUNXUN11/JUNXUN11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
