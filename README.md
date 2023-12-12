@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm JUN XUN</h1>
-<h3 align="center">A 2nd Year Computer Science Student in UTM</h3>
+
 
 
 <p align="left">
