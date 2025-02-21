@@ -4,8 +4,8 @@
 
 ### 🚀 What I Do:
 - **Full-Stack Development** (React, Vue, Java Spring Boot, PHP, MongoDB)
-- **Machine Learning & NLP** (Python, TensorFlow, PyTorch, Google Colab)
-- **Cloud Computing** (Alibaba Cloud )
+- **Machine Learning & NLP** (Python, TensorFlow,Google Colab)
+- **Cloud Computing** (Alibaba Cloud)
 - **I solve LeetCode problems using Java and Python**
 
 ### 🌱 Currently Learning:
