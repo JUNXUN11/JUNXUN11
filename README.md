@@ -2,21 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm JUN XUN</h1>
 
+### 🚀 What I Do:
+- **Full-Stack Development** (React, Vue, Java Spring Boot, PHP, MongoDB)
+- **Machine Learning & NLP** (Python, TensorFlow, PyTorch, Google Colab)
+- **Cloud Computing** (Alibaba Cloud )
+- **I solve LeetCode problems using Java and Python**
 
+### 🌱 Currently Learning:
+- Deep Learning for NLP
+<br>
 
-<p align="left">
-</p>
-<!--
-**JUNXUN11/JUNXUN11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LeetCode Stats](https://leetcard.jacoblin.cool/junxun11?ext=heatmap&theme=dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
